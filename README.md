@@ -44,6 +44,6 @@ Swiftform enables teachers to accept or denie the requests for forms given by st
 
 ## Releases 
 
-Download the latest version of Swiftform by either clicking the link bellow or clicking on releases on the menu bar on the right. To download and run click on the zip file and extract it then proceed to run the python file named {File name.py}
+Download the latest version of Swiftform by either clicking the link bellow or clicking on releases on the menu bar on the right. To download and run click on the zip file and extract it then proceed to run the python file named Log_in.py
 
 [Releases](https://github.com/slimeborger/swiftform/releases)
